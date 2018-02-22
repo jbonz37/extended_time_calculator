@@ -92,4 +92,4 @@ Do not base a decision on this number alone.
 
 	To contact the developer with comments/questions email johnboniello@gmail.com.
 
-	You can view the full source code at https://sourceforge.net/projects/extended-time-calculator/. 
+	You can view the full source code at https://github.com/jbonz37/extended_time_calculator. 
