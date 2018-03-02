@@ -9,7 +9,7 @@ There are 4 sections to this README document.
 3. Database
 4. Tips and contact information for the developer
 
-##1. Disclaimer
+<h2>1. Disclaimer</h2>
 	
 This application is not intended to be the one measure used in determining
 an extended time accommodation for a student with a disability.  
@@ -47,42 +47,41 @@ Do not base a decision on this number alone.
 		Save and Save Update should be the LAST buttons pressed. 
 
 
-	2. Entry tabs
+<h3>2. Entry tabs</h3>
 		
-		Entry tabs are provided for all academic subjects for which a student with a disability may need extended time.  
-                Data should be collected during a test and entered here after one or multiple tests. There are four fields for you to enter data: 
-			Date (this always starts on the day of entry, you can go backrwards if needed)
+   Entry tabs are provided for all academic subjects for which a student with a disability may need extended time.  
+   Data should be collected during a test and entered here after one or multiple tests. There are four fields for you to enter data: 
+	Date (this always starts on the day of entry, you can go backrwards if needed)
 
-			Name of the test
+	Name of the test
 
-			Expected time: How much time did you allow all students to complete this assignment?
+	Expected time: How much time did you allow all students to complete this assignment?
 
-			Actual time: How much time did the student in question actually use for the test? 
+	Actual time: How much time did the student in question actually use for the test? 
 
-		When data are entered click "Add New".  When you click add new you a line will pop up in the table next to the data entry fields.  
-                This is a temporary table and does not save.  The data does save however. You CANNOT delete data at this time. 
-                Please make sure to only press "Add New" when you are sure that the numbers in the entry fields are correct.  
-                Pressing ENTER or RETURN does NOT allow you to add data.  This is intentional. 
+	When data are entered click "Add New".  When you click add new you a line will pop up in the table next to the data entry fields.  
+        This is a temporary table and does not save.  The data does save however. You CANNOT delete data at this time. 
+        Please make sure to only press "Add New" when you are sure that the numbers in the entry fields are correct.  
+        Pressing ENTER or RETURN does NOT allow you to add data.  This is intentional. 
 
-		Clicking "Calculate" will populate the box below, which will generate a sentence about the percentage of time and what this data suggests 
-                about the extended time needs of the student.  This sentence will automatically populate the appropriate box on the front page.   
+	Clicking "Calculate" will populate the box below, which will generate a sentence about the percentage of time and what this data suggests about the extended time needs of the student.  This sentence will automatically populate the appropriate box on the front page.   
 
-		All entry pages are the same and behave in the same manner. 
+	All entry pages are the same and behave in the same manner. 
 
-		Note: There is a tab for ENL.  This is intended for students with disabilities who are also in need of ENL (or ESL).  
-                These are not accommodations students receive because of their ELL status.  This is an accommodation that is needed due to the impact of the disability on 
-                the student's ability to complete tests and tasks in ENL class.  
+	Note: There is a tab for ENL.  This is intended for students with disabilities who are also in need of ENL (or ESL).  
+              These are not accommodations students receive because of their ELL status.  This is an accommodation that is needed due to the impact of the disability on 
+              the student's ability to complete tests and tasks in ENL class.  
 
-##3. Database info
+<h2>3. Database info</h2>
 
-	All data is stored in a sqlite database.  You can interact with this database directly to delete records and/or alter records.  
-        This is NOT recommended unless you are comfortable working with database programs, any changes made to this database directly will affect what happens in app.  
-	You will need another program to open and view the database.  
-        There are many opensource projects on the internet that allow you to view and interact with the .db file.  Some options are (in no particular order):
+All data is stored in a sqlite database.  You can interact with this database directly to delete records and/or alter records.  
+       This is NOT recommended unless you are comfortable working with database programs, any changes made to this database directly will affect what happens in app.  
+You will need another program to open and view the database.  
+       There are many opensource projects on the internet that allow you to view and interact with the .db file.  Some options are (in no particular order):
 	
-	1. SQLite Viewer (all online, just drag and drop the file into the browser)
-	2. DB Browser for SQLite
-	3. SQLite Studio
+1. SQLite Viewer (all online, just drag and drop the file into the browser)
+2. DB Browser for SQLite
+3. SQLite Studio
 	
 ##4. Tips and Contact information
 
