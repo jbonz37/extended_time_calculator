@@ -25,14 +25,15 @@ Do not base a decision on this number alone.
     This is free software, and you are welcome to redistribute it
     under certain conditions; refer to license file for more information.
 
-##2. Instructions for Use
+<h2>2. Instructions for Use</h2>
 
-	1. The front page.  
-		The page that is displayed upon opening consists of two name entry fields and six subject fields. 
-                The six subject fields are not editable, they will populate automatically. 
-		The first field is for NEW entries ONLY.  If you fill this in with a student who has been entered prior the file will not save. 
-                Do NOT click save until you have entered data on the following tabs and are finished entering data. 
-                Please use a naming convention that can be consistent with all students, for example, Fist_L (First name spelled out with a capital letter, followed by the last initial).
+<h3>1. The front page.</h3>  
+  The page that is displayed upon opening consists of two name entry fields and six subject fields. 
+  The six subject fields are not editable, they will populate automatically. 
+  The first field is for NEW entries ONLY.  If you fill this in with a student who has been entered prior the file will not save. 
+                
+     Do NOT click save until you have entered data on the following tabs and are finished entering data. 
+     Please use a naming convention that can be consistent with all students, for example, Fist_L (First name spelled out with a capital letter, followed by the last initial).
 		The database used looks for the name, so names MUST be unique. If you have two students named John B. use something unique: John_Bo and John_Be for example.
 		The second field is for students who have been entered prior. 
                 If you cannot remember which students you have entered in the past you can open the student_names.txt file to check. (names are separated by ;)  
