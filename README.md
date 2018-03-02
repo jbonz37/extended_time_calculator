@@ -1,4 +1,4 @@
-# extended_time_calculator
+# Extended Time Calculator
 This is an app for calucating extended time for students with disabilities
 
 Welcome to the Extended Time Accommodation Calculator.
@@ -9,7 +9,7 @@ There are 4 sections to this README document.
 3. Database
 4. Tips and contact information for the developer
 
-1. Disclaimer
+##1. Disclaimer
 	
 This application is not intended to be the one measure used in determining
 an extended time accommodation for a student with a disability.  
@@ -25,7 +25,7 @@ Do not base a decision on this number alone.
     This is free software, and you are welcome to redistribute it
     under certain conditions; refer to license file for more information.
 
-2. Instructions for Use
+##2. Instructions for Use
 
 	1. The front page.  
 		The page that is displayed upon opening consists of two name entry fields and six subject fields. 
@@ -72,7 +72,7 @@ Do not base a decision on this number alone.
                 These are not accommodations students receive because of their ELL status.  This is an accommodation that is needed due to the impact of the disability on 
                 the student's ability to complete tests and tasks in ENL class.  
 
-3. Database info
+##3. Database info
 
 	All data is stored in a sqlite database.  You can interact with this database directly to delete records and/or alter records.  
         This is NOT recommended unless you are comfortable working with database programs, any changes made to this database directly will affect what happens in app.  
@@ -83,7 +83,7 @@ Do not base a decision on this number alone.
 	2. DB Browser for SQLite
 	3. SQLite Studio
 	
-4. Tips and Contact information
+##4. Tips and Contact information
 
 	1. Collect data over multiple tests before entering into this application. 
 	
@@ -92,4 +92,4 @@ Do not base a decision on this number alone.
 
 	To contact the developer with comments/questions email johnboniello@gmail.com.
 
-	You can view the full source code at https://github.com/jbonz37/extended_time_calculator. 
+	You can view the full source code at https://github.com/johnboniello/extended_time_calculator. Or by clicking on the source code button
