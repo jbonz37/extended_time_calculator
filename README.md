@@ -13,8 +13,7 @@ There are 4 sections to this README document.
 
 <h2>1. Disclaimer</h2>
 	
-This application is not intended to be the one measure used in determining
-an extended time accommodation for a student with a disability.  
+This application is not intended to be the one measure used in determining an extended time accommodation for a student with a disability.  
 This is simply one piece of data that can support any decision made by the Committee on Special Education.  
 Decisions made by the CSE must be made in accordance with relevant laws and regulations and must take into account 
 the impact of the diability on the student's ability to complete a test in the expected amount of time. 
