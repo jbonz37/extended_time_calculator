@@ -90,9 +90,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google", 
+  provider               :  "custom"
   google:
-    tracking_id          : UA-115065150-1
+    tracking_id          : "UA-115065150-1"
 
 
 # Site Author
